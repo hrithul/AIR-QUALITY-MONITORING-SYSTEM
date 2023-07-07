@@ -23,6 +23,7 @@
 7. 10K Potentiometer
 8. USB cable type A/B
 
+
 [Need hardwares ?](https://quartzcomponents.com/collections/iot-project-air-quality-monitoring-using-arduino)
 
 <br>
